@@ -1,0 +1,7 @@
+{
+  "name": "ss Multi-AI Voice Typer",
+  "description": "A web-based prototype of a multi-AI voice typing interface with intent classification and AI routing for Windows apps like Word, Excel, and Notepad.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
